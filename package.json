@@ -1,0 +1,16 @@
+{
+  "name": "exploit",
+  "version": "1.0.0",
+  "description": "Este exploit foi desenvolvido para aplicar as práticas de desserialização insegura do PHP (RCE)",
+  "main": "desserializaçãoPHPRCE.js",
+  "scripts": {
+    "test": "console.log(1)"
+  },
+  "author": "Leonardo Duarte (EK1L)",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.7",
+    "js-base64": "^3.7.7",
+    "npm": "^10.9.0"
+  }
+}
